@@ -1,4 +1,4 @@
-name: Devops Pipeline to dockerhub
+name: Devops
  
 on:
   push:
